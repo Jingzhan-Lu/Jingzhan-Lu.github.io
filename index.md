@@ -2,7 +2,7 @@
 
 A PhD student with a passion for computational genetics
 
-#<img width="200" alt="profile" src="https://github.com/Jingzhan-Lu/UKB/blob/a6e62ba3adf3be8a5f32a6701d2e07cd57734bb0/myself.jpg">
+<img width="200" alt="profile" src="https://github.com/Jingzhan-Lu/UKB/blob/a6e62ba3adf3be8a5f32a6701d2e07cd57734bb0/myself.jpg">
 
 ### Education
 
@@ -15,4 +15,4 @@ I can be found on the following creative platforms：
 - LinedIn：[lujingzhan](https://www.instagram.com/lujingzhan/)
 
 ### Contact
--email: 106316153@gms.tcu.edu.tw
+-Email: 106316153@gms.tcu.edu.tw
