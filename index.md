@@ -1,4 +1,4 @@
-## Jingzhan Lu
+## Jingzhan
 
 A PhD student with a passion for computational genetics
 
