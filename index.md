@@ -13,7 +13,9 @@ A PhD student with a passion for computational genetics
 - Taiwan Tzu Chi University（College of Medicine） &emsp; &emsp;&emsp; BEng Medical Informatics &emsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&emsp;  09/2017 - 07/2021
 
 ### Research
-- Impact of control selection on genetic case-control studies – a UK Biobank study of the genetics of Schizophrenia and Bipolar Disorder <br> <br>
+- Impact of control selection on genetic case-control studies – a UK Biobank study of the genetics of Schizophrenia and Bipolar Disorder
+  [(Available on ResearchGate)](https://www.researchgate.net/publication/365265999_Impact_of_control_selection_on_genetic_case-control_studies-a_UK_Biobank_study_of_the_genetics_of_Schizophrenia_and_Bipolar_Disorder)
+<br> <br>
   &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Manhattan-Comparison Plot <br>
   <img width="700" alt="profile" src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/af18869e4790e2868e9e992f57508e289ad6cf24/manha.png">
 - To develop a platform for the identification of Gram-stained images using Deep Convolutional Neutral Network
