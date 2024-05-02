@@ -28,6 +28,9 @@ I can be found on the following creative platforms：
 - ResearchGate：[Jingzhan Lu](https://www.researchgate.net/profile/Jingzhan-Lu)
 - LinedIn：[Jingzhan Lu](www.linkedin.com/in/jingzhan-lu-8b4065206)
 - Instagram：[lujingzhan](https://www.instagram.com/lujingzhan/)
-
+### Conference and Talk
+- ESHG 2024, European Human Genetics Conference 2024, Berlin, Germany
+- SGGD 2024, Genetics of Diabetes, University of Exeter, UK
+- 2022 AI-DLDA Summer School, University of Udine, Italy：[YouTube Video](https://www.youtube.com/watch?v=893cXc9hGP4&t=4s)
 ### Contact
 - Email: 106316153@gms.tcu.edu.tw
