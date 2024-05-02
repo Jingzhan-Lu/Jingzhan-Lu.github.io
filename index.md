@@ -1,6 +1,6 @@
 ## Jingzhan Lu
 
-A PhD student with a passion for computational genetics
+A PhD student with a passion for Computational Genetics of Healthcare
 
 <img width="200" alt="profile" src="https://github.com/Jingzhan-Lu/UKB/blob/a6e62ba3adf3be8a5f32a6701d2e07cd57734bb0/myself.jpg">
 
