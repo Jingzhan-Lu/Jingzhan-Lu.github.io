@@ -19,6 +19,7 @@ A PhD student with a passion for computational genetics
 - Impact of control selection on genetic case-control studies – a UK Biobank study of the genetics of Schizophrenia and Bipolar Disorder
 - To develop a platform for the identification of Gram-stained images using Deep Convolutional Neutral Network
 - Molecular docking analysis of Ritonavir, Lopinavir, Atazanavir, Darunavir and TMC-31091 as SARS-CoV-2 3CLpro inhibitors
+- <img width="200" alt="profile" src="https://github.com/Jingzhan-Lu/UKB/blob/a6e62ba3adf3be8a5f32a6701d2e07cd57734bb0/myself.jpg">
   
 I can be found on the following creative platforms：
 - X：[Jingzhan Lu](https://twitter.com/JingzhanLu)
