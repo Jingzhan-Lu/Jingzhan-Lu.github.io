@@ -1,2 +1,1 @@
-[Open PDF]({{ site.pdf_file_path }}){:target="_blank" onclick="ga('send', 'event', 'Download', 'PDF', 'Jingzhan_Lu-CV-Exeter.pdf');"}
 theme: jekyll-theme-cayman
