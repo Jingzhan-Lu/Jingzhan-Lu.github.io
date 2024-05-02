@@ -1,2 +1,3 @@
+[Open PDF]({{ site.pdf_file_path }}){:target="_blank" onclick="ga('send', 'event', 'Download', 'PDF', 'Filename');"}
 google_analytics:
 theme: jekyll-theme-cayman
