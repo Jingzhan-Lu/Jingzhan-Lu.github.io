@@ -1,8 +1,8 @@
 ## Jingzhan Lu
 
-A PhD student with a passion for Computational Genetics of Healthcare
+A PhD student with a passion for Computational Genetics of Healthcare <br> <br>
+<img width="200" alt="profile" src="myself.jpg">
 
-<img width="200" alt="profile" src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/1efbab5db1c876a7a19cf3c736b5514594d872f5/myself.jpg">
 
 ### Education
 - University of Exeter (Medical School) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; PhD Genetics and Genomics  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10/2023 - Now <br>
@@ -17,10 +17,10 @@ A PhD student with a passion for Computational Genetics of Healthcare
   [(Available on ResearchGate)](https://www.researchgate.net/publication/365265999_Impact_of_control_selection_on_genetic_case-control_studies-a_UK_Biobank_study_of_the_genetics_of_Schizophrenia_and_Bipolar_Disorder)
 <br> <br>
   &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Manhattan-Comparison Plot <br>
-  <img width="700" alt="profile" src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/af18869e4790e2868e9e992f57508e289ad6cf24/manha.png">
-- To develop a platform for the identification of Gram-stained images using Deep Convolutional Neutral Network
+  <img width="700" alt="profile" src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/af18869e4790e2868e9e992f57508e289ad6cf24/manha.png"> <br>
+- To develop a platform for the identification of Gram-stained images using Deep Convolutional Neutral Network <br><br>
   <img width="800" alt="profile" src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/6e76d2d6c85e1ea2cfc786b066e08bfeade08526/Picture2.png">
-- Molecular docking analysis of Ritonavir, Lopinavir, Atazanavir, Darunavir and TMC-31091 as SARS-CoV-2 3CLpro inhibitors  <br> <br>
+- Molecular docking analysis of Ritonavir, Lopinavir, Atazanavir, Darunavir and TMC-31091 as SARS-CoV-2 3CLpro inhibitors  <br>
  &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img width="500" alt="profile" src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/6e76d2d6c85e1ea2cfc786b066e08bfeade08526/Media1.gif">
 ### Social Media
 I can be found on the following creative platforms：
