@@ -18,8 +18,8 @@ A PhD student with a passion for Computational Genetics of Healthcare <br> <br>
 <br> <br>
   &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Manhattan-Comparison Plot <br>
   <img width="700" alt="profile" src="manha.png"> <br>
-- To develop a platform for the identification of Gram-stained images using Deep Convolutional Neutral Network <br><br>
-  <img width="800" alt="profile" src="Picture2.png">
+- To develop a platform for the identification of Gram-stained images using Deep Convolutional Neutral Network <br>
+  <img width="700" alt="profile" src="Picture2.png">
 - Molecular docking analysis of Ritonavir, Lopinavir, Atazanavir, Darunavir and TMC-31091 as SARS-CoV-2 3CLpro inhibitors  <br> <br>
  &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img width="500" alt="profile" src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/6e76d2d6c85e1ea2cfc786b066e08bfeade08526/Media1.gif">
 ### Social Media
