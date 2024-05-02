@@ -26,7 +26,7 @@ A PhD student with a passion for Computational Genetics of Healthcare
 I can be found on the following creative platforms：
 - X：[Jingzhan Lu](https://twitter.com/JingzhanLu)
 - ResearchGate：[Jingzhan Lu](https://www.researchgate.net/profile/Jingzhan-Lu)
-- LinedIn：[Jingzhan Lu](www.linkedin.com/in/jingzhan-lu-8b4065206)
+- LinkedIn：[Jingzhan Lu](https://www.linkedin.com/in/jingzhan-lu-8b4065206/)
 - Instagram：[lujingzhan](https://www.instagram.com/lujingzhan/)
 ### Conference and Talk
 - ESHG 2024, European Human Genetics Conference 2024, Berlin, Germany
