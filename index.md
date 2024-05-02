@@ -2,7 +2,7 @@
 
 A PhD student with a passion for Computational Genetics of Healthcare
 
-<img width="200" alt="profile" src="https://github.com/Jingzhan-Lu/UKB/blob/a6e62ba3adf3be8a5f32a6701d2e07cd57734bb0/myself.jpg">
+<img width="200" alt="profile" src="https://raw.githubusercontent.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/1efbab5db1c876a7a19cf3c736b5514594d872f5/myself.jpg">
 
 ### Education
 - University of Exeter (Medical School) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; PhD Genetics and Genomics  &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10/2023 - Now <br>
