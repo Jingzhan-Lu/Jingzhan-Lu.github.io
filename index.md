@@ -13,7 +13,8 @@ A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> 
   * MSc Health Data Science
   * [Human Genetics @UCL Lab](https://www.uclhumgen.com/)
 - Taiwan Tzu Chi University（College of Medicine） &emsp;  &emsp;&emsp;&emsp;&emsp;09/2017 - 07/2021 <br>
-  * BEng Medical Informatics  <br>
+  * BEng Medical Informatics
+
 ### Research
 - Impact of control selection on genetic case-control studies – a UK Biobank study of the genetics of Schizophrenia and Bipolar Disorder
   [(Available on ResearchGate)](https://www.researchgate.net/publication/365265999_Impact_of_control_selection_on_genetic_case-control_studies-a_UK_Biobank_study_of_the_genetics_of_Schizophrenia_and_Bipolar_Disorder)
