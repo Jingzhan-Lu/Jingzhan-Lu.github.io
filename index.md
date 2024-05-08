@@ -16,7 +16,9 @@ A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> 
   * BEng Medical Informatics
 
 ### Research
-- Impact of control selection on genetic case-control studies – a UK Biobank study of the genetics of Schizophrenia and Bipolar Disorder
+- Predicting Prostate Cancer by combining prostate-specific antigen (PSA) test results with Genetic Risk Scores (GRS) ![image](https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/e0f71acc-a484-4df1-bc3a-9c5e1ebdce04)
+
+- Impact of control selection strategies on GWAS results – a study of the Schizophrenia and Bipolar Disorder in the UK Biobank 
   [(Available on ResearchGate)](https://www.researchgate.net/publication/365265999_Impact_of_control_selection_on_genetic_case-control_studies-a_UK_Biobank_study_of_the_genetics_of_Schizophrenia_and_Bipolar_Disorder)
 <br> <br>
   &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; Manhattan-Comparison Plot <br>
