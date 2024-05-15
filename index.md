@@ -3,7 +3,8 @@
 A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> <br>
 <img width="200" alt="profile" src="myself.jpg">
 
-
+<img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/74b84b96-92cc-4b44-8a3c-5404d9545a6c" alt="image" width="50" height="50"> [Connect:  Jingzhan Lu](https://twitter.com/JingzhanLu)
+  
 ### Education
 - University of Exeter (Medical School) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 10/2023 - Now <br>
   * PhD Genetics and Genomics
@@ -29,7 +30,6 @@ A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> 
  &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img width="500" alt="profile" src="Media1.gif">
 ### Social Media
 I can be found on the following creative platforms：
-- X：[Jingzhan Lu](https://twitter.com/JingzhanLu)
 - ResearchGate：[Jingzhan Lu](https://www.researchgate.net/profile/Jingzhan-Lu)
 - LinkedIn：[Jingzhan Lu](https://www.linkedin.com/in/jingzhan-lu-8b4065206/)
 - Instagram：[lujingzhan](https://www.instagram.com/lujingzhan/)
