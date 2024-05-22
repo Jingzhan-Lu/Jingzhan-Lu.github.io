@@ -4,8 +4,10 @@ A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> 
 <img width="200" alt="profile" src="myself.jpg">
 
 <img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/40b0d856-ff64-439c-90dc-7c141e8a17b2" width="50" height="50"> <a href="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/56733c7852b17105e772c882e162271c96551245/ESHG%202024%20Poster_v4.pdf" target="_blank"> ESHG 2024 e-Poster</a>
-&nbsp; P17.015.D - Control Selection Strategies on GWAS in the UK Biobank <br>  <br>
-<img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/74b84b96-92cc-4b44-8a3c-5404d9545a6c" alt="image" width="50" height="50"> [Click to Connect](https://twitter.com/JingzhanLu) &nbsp; Jingzhan Lu
+&nbsp; P17.015.D - Control Selection Strategies on GWAS in the UK Biobank <br>
+ * Poster Viewing Group D, Abstract available [@ESHG Info](https://apps.m-anage.com/eshg2024/en-GB/pag/presentation/670346) <br>
+  
+<img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/74b84b96-92cc-4b44-8a3c-5404d9545a6c" alt="image" width="50" height="50"> [Click to Connect](https://twitter.com/JingzhanLu) &nbsp; @JingzhanLu
 
 ### Education
 - University of Exeter (Medical School) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 10/2023 - Now <br>
