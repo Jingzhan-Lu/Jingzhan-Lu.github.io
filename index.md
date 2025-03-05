@@ -7,10 +7,14 @@ A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> 
 
 <!-- <img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/40b0d856-ff64-439c-90dc-7c141e8a17b2" width="50" height="50"> <a href="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/6d4dc40128bf305d53fc2d61c7f4757e79a743a1/ESHG%202024%20Poster_v5.pdf" target="_blank"> ESHG 2024 e-Poster</a> -->
 
-&nbsp; [1]. UK Biobank Scientific Conference 2024: Poster Presentaion @London <br>
+&nbsp; [1]. Cancer in Primary Care Research International (Ca-PRI) Conference 2025: Oral Presentaion @Manchester <br>
+ * In Coming Soon - [@April Ca-PRI Info](https://www.mcrc.manchester.ac.uk/mcrc-events/cancer-in-primary-care-research-international-ca-pri-conference-2025/)
+ * Combing the PSA test with Polygenic Risk Scores (PRS/GRS) to improve the prostate cancer diagnosis and prediction in primary care <br>
+  
+&nbsp; [2]. UK Biobank Scientific Conference 2024: Poster Presentaion @London <br>
  * Predicting prostate cancer by combining Prostate Specific Antigen (PSA) test results with Genetic Risk Scores (GRS) in the UK Biobank <br>
  
-&nbsp; [2]. European Society of Human Genetics 2024 (ESHG 2024 @Berlin)：Poster Presentaion <br>
+&nbsp; [3]. European Society of Human Genetics 2024 (ESHG 2024 @Berlin)：Poster Presentaion <br>
  * Impact of control selection strategies on GWAS results: a study of Schizophrenia and Bipolar Disorder in the UK Biobank <br>
  * P17.015.D - Poster Viewing Group D, Abstract available [@ESHG Info](https://apps.m-anage.com/eshg2024/en-GB/pag/presentation/670346) <br>
   
