@@ -6,15 +6,18 @@ A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> 
 ## Recent News
 
 <!-- <img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/40b0d856-ff64-439c-90dc-7c141e8a17b2" width="50" height="50"> <a href="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/6d4dc40128bf305d53fc2d61c7f4757e79a743a1/ESHG%202024%20Poster_v5.pdf" target="_blank"> ESHG 2024 e-Poster</a> -->
-
-&nbsp; [1]. Cancer in Primary Care Research International (Ca-PRI) Conference 2025: Oral Presentaion @Manchester <br>
+&nbsp; [1]. European Society of Human Genetics 2025 (ESHG 2025 @Milan): Oral Presentaion @European conference fellowship <br>
+ * 24 - 27 May - [@ESHG Info](https://2025.eshg.org/)
+ * Predicting prostate cancer by combining Prostate Specific Antigen (PSA) test results with Genetic Risk Scores (GRS) <br>
+  
+&nbsp; [2]. Cancer in Primary Care Research International (Ca-PRI) Conference 2025: Oral Presentaion @Manchester <br>
  * In Coming Soon - [@April 2025, Ca-PRI Info](https://www.mcrc.manchester.ac.uk/mcrc-events/cancer-in-primary-care-research-international-ca-pri-conference-2025/)
  * Combing the PSA test with Polygenic Risk Scores (PRS/GRS) to improve the prostate cancer diagnosis and prediction in primary care <br>
   
-&nbsp; [2]. UK Biobank Scientific Conference 2024: Poster Presentaion @London <br>
+&nbsp; [3]. UK Biobank Scientific Conference 2024: Poster Presentaion @London <br>
  * Predicting prostate cancer by combining Prostate Specific Antigen (PSA) test results with Genetic Risk Scores (GRS) in the UK Biobank <br>
  
-&nbsp; [3]. European Society of Human Genetics 2024 (ESHG 2024 @Berlin)：Poster Presentaion <br>
+&nbsp; [4]. European Society of Human Genetics 2024 (ESHG 2024 @Berlin)：Poster Presentaion <br>
  * Impact of control selection strategies on GWAS results: a study of Schizophrenia and Bipolar Disorder in the UK Biobank <br>
  * P17.015.D - Poster Viewing Group D, Abstract available [@ESHG Info](https://apps.m-anage.com/eshg2024/en-GB/pag/presentation/670346) <br>
   
@@ -29,7 +32,7 @@ A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> 
   * MSc Health Data Science
   * [Human Genetics @UCL Lab](https://www.uclhumgen.com/)
 - Taiwan Tzu Chi University（College of Medicine） &emsp;  &emsp;&emsp;&emsp;&emsp;09/2017 - 07/2021 <br>
-  * BEng Medical Informatics
+  * BEng Medical Informatics (Bioinfor Track)
 
 ### Research
 - Predicting Prostate Cancer by combining prostate-specific antigen (PSA) test results with Genetic Risk Scores (GRS) ![image](https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/e0f71acc-a484-4df1-bc3a-9c5e1ebdce04)
