@@ -7,7 +7,7 @@ A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> 
 
 <!-- <img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/40b0d856-ff64-439c-90dc-7c141e8a17b2" width="50" height="50"> <a href="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/6d4dc40128bf305d53fc2d61c7f4757e79a743a1/ESHG%202024%20Poster_v5.pdf" target="_blank"> ESHG 2024 e-Poster</a> -->
 &nbsp; [1]. European Society of Human Genetics 2025 (ESHG 2025 @Milan): Oral Presentaion @European conference fellowship <br>
- * 24 - 27 May - [@ESHG Info](https://2025.eshg.org/)
+ * 11:00-12:30, Tuesday, 27 May - [@ESHG Info - C34.Advancing cancer prevention, detection and treatment](https://2025.eshg.org/programme-at-a-glance/)
  * Predicting prostate cancer by combining Prostate Specific Antigen (PSA) test results with Genetic Risk Scores (GRS) <br>
   
 &nbsp; [2]. Cancer in Primary Care Research International (Ca-PRI) Conference 2025: Oral Presentaion @Manchester <br>
