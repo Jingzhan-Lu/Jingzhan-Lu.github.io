@@ -6,12 +6,12 @@ A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> 
 ## Recent News
 
 <!-- <img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/40b0d856-ff64-439c-90dc-7c141e8a17b2" width="50" height="50"> <a href="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/6d4dc40128bf305d53fc2d61c7f4757e79a743a1/ESHG%202024%20Poster_v5.pdf" target="_blank"> ESHG 2024 e-Poster</a> -->
-&nbsp; [1]. European Society of Human Genetics 2025 (ESHG 2025 @Milan): Oral Presentaion @European conference fellowship <br>
+&nbsp; [1]. European Society of Human Genetics 2025 (ESHG 2025 @Milan): Oral Presentaion #European conference fellowship <br>
  * 11:00-12:30, Tuesday, 27 May - [@ESHG Info - C34.Advancing cancer prevention, detection and treatment](https://2025.eshg.org/programme-at-a-glance/)
  * Predicting prostate cancer by combining Prostate Specific Antigen (PSA) test results with Genetic Risk Scores (GRS) <br>
   
-&nbsp; [2]. Cancer in Primary Care Research International (Ca-PRI) Conference 2025: Oral Presentaion @Manchester <br>
- * In Coming Soon - [@April 2025, Ca-PRI Info](https://www.mcrc.manchester.ac.uk/mcrc-events/cancer-in-primary-care-research-international-ca-pri-conference-2025/)
+&nbsp; [2]. Cancer in Primary Care Research International ([@Ca-PRI](https://www.mcrc.manchester.ac.uk/mcrc-events/cancer-in-primary-care-research-international-ca-pri-conference-2025/)) Conference 2025: Oral Presentaion @Manchester <br>
+ * Tuesday, 29 April - [@Presentaion Info]( https://www.linkedin.com/posts/deepthi-lavu-b73a40322_prostatecancer-psa-genetic-activity-7322938844654227456-a-Nu?utm_source=share&utm_medium=member_desktop&rcm=ACoAADRVbMgBKwe4J90V2UMJBzuS-D50uBRcdXk) (Control Number: 19)
  * Combing the PSA test with Polygenic Risk Scores (PRS/GRS) to improve the prostate cancer diagnosis and prediction in primary care <br>
   
 &nbsp; [3]. UK Biobank Scientific Conference 2024: Poster Presentaion @London <br>
