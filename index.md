@@ -21,6 +21,8 @@ A PhD student with a passion for Computational Genetics of Healthcare 🧬 <br> 
  * Impact of control selection strategies on GWAS results: a study of Schizophrenia and Bipolar Disorder in the UK Biobank <br>
  * P17.015.D - Poster Viewing Group D, Abstract available [@ESHG Info](https://apps.m-anage.com/eshg2024/en-GB/pag/presentation/670346) <br>
   
+<img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/74b84b96-92cc-4b44-8a3c-5404d9545a6c" alt="image" width="50" height="50"> [Click to Connect](https://bsky.app/profile/jingzhan.bsky.social) &nbsp; @jingzhan.bsky.social
+
 <img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/74b84b96-92cc-4b44-8a3c-5404d9545a6c" alt="image" width="50" height="50"> [Click to Connect](https://twitter.com/JingzhanLu) &nbsp; @JingzhanLu
 
 ### Education
