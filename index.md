@@ -21,9 +21,9 @@ A PhD student with a passion for Statistical Genetics of Healthcare 🧬 <br> <b
  * Impact of control selection strategies on GWAS results: a study of Schizophrenia and Bipolar Disorder in the UK Biobank <br>
  * P17.015.D - Poster Viewing Group D, Abstract available [@ESHG Info](https://apps.m-anage.com/eshg2024/en-GB/pag/presentation/670346) <br>  -->
   
-<img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/main/Bluesky_Logo.svg.png" alt="image" width="50" height="50"> [Click to Connect](https://bsky.app/profile/jingzhan.bsky.social) &nbsp; @jingzhan.bsky.social
+<!--  <img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/main/Bluesky_Logo.svg.png" alt="image" width="50" height="50"> [Click to Connect](https://bsky.app/profile/jingzhan.bsky.social) &nbsp; @jingzhan.bsky.social
 
-<img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/74b84b96-92cc-4b44-8a3c-5404d9545a6c" alt="image" width="50" height="50"> [Click to Connect](https://twitter.com/JingzhanLu) &nbsp; @JingzhanLu
+<img src="https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/assets/47838088/74b84b96-92cc-4b44-8a3c-5404d9545a6c" alt="image" width="50" height="50"> [Click to Connect](https://twitter.com/JingzhanLu) &nbsp; @JingzhanLu  -->
 
 ### Education
 - University of Exeter (Medical School) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; 10/2023 - Now <br>
@@ -47,15 +47,15 @@ A PhD student with a passion for Statistical Genetics of Healthcare 🧬 <br> <b
 <!-- - To develop a platform for the identification of Gram-stained images using Deep Convolutional Neutral Network <br>
   <img width="700" alt="profile" src="Picture2.png">-->
 <!-- - Molecular docking analysis of Ritonavir, Lopinavir, Atazanavir, Darunavir and TMC-31091 as SARS-CoV-2 3CLpro inhibitors  <br> <br>
- &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img width="500" alt="profile" src="Media1.gif">-->
-### Social Media
+ &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; <img width="500" alt="profile" src="Media1.gif"> -->
+<!-- ### Social Media
 I can be found on the following creative platforms：
 - ResearchGate：[Jingzhan Lu](https://www.researchgate.net/profile/Jingzhan-Lu)
 - LinkedIn：[Jingzhan Lu](https://www.linkedin.com/in/jingzhan-lu-8b4065206/)
-- Instagram：[lujingzhan](https://www.instagram.com/lujingzhan/)
+- Instagram：[lujingzhan](https://www.instagram.com/lujingzhan/) 
 ### Conference and Talk
 - ESHG 2024, European Human Genetics Conference 2024, Berlin, Germany
 - SGGD 2024, Genetics of Diabetes, University of Exeter, UK
-<!-- - 2022 AI-DLDA Summer School, University of Udine, Italy：[YouTube Video](https://www.youtube.com/watch?v=893cXc9hGP4&t=4s)-->
+- 2022 AI-DLDA Summer School, University of Udine, Italy：[YouTube Video](https://www.youtube.com/watch?v=893cXc9hGP4&t=4s)-->
 ### Contact
 - Email: 106316153@gms.tcu.edu.tw
