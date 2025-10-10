@@ -4,7 +4,7 @@ A PhD student with a passion for Statistical Genetics of Healthcare 🧬[Persona
 <img width="200" alt="profile" src="myself.jpg">
 
 ## Selected Publications
- &nbsp; [1]. Impact of control selection strategies on GWAS results: a study of prostate cancer in the UK Biobank  [Preprint available](https://www.medrxiv.org/content/10.1101/2025.08.21.25334151v1) <br> <br>
+ &nbsp; [1]. Impact of control selection strategies on GWAS results: a study of prostate cancer in the UK Biobank  [Preprint available](https://www.medrxiv.org/content/10.1101/2025.10.08.25337574v1) <br> <br>
  &nbsp; [2]. Prostate cancer risk-stratification using proteomic estimation of KLK3 improves accuracy in screening applications: a population-based cohort study in the UK Biobank [Preprint available](https://www.medrxiv.org/content/10.1101/2025.08.21.25334151v1)
 
 ## Recent News
