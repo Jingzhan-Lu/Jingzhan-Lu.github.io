@@ -49,21 +49,21 @@ A PhD student with a passion for Statistical Genetics of Healthcare 🧬[Persona
 ### Social Media
 I can be found on the following creative platforms
 - Github：[Jingzhan-Lu](https://github.com/Jingzhan-Lu)
-<!-- ResearchGate：[Jingzhan Lu](https://www.researchgate.net/profile/Jingzhan-Lu)
-- LinkedIn：[Jingzhan Lu](https://www.linkedin.com/in/jingzhan-lu-8b4065206/)
-- Instagram：[lujingzhan](https://www.instagram.com/lujingzhan/) ->
+<!-- ResearchGate：[Jingzhan Lu](https://www.researchgate.net/profile/Jingzhan-Lu) -->
+<!--- LinkedIn：[Jingzhan Lu](https://www.linkedin.com/in/jingzhan-lu-8b4065206/) -->
+<!-- - Instagram：[lujingzhan](https://www.instagram.com/lujingzhan/) -->
 ### Conference and Talk
-&nbsp; [1]. UK Biobank Scientific Conference 2024: Poster Presentaion @London <br>
- * Predicting prostate cancer by combining Prostate Specific Antigen (PSA) test results with Genetic Risk Scores (GRS) in the UK Biobank <br>
+<!-- &nbsp; [1]. UK Biobank Scientific Conference 2024: Poster Presentaion @London <br>
+ * Predicting prostate cancer by combining Prostate Specific Antigen (PSA) test results with Genetic Risk Scores (GRS) in the UK Biobank <br> -->
  
-&nbsp; [2]. European Society of Human Genetics 2024 (ESHG 2024 @Berlin)：Poster Presentaion <br>
+<!-- &nbsp; [2]. European Society of Human Genetics 2024 (ESHG 2024 @Berlin)：Poster Presentaion <br>
  * Impact of control selection strategies on GWAS results: a study of Schizophrenia and Bipolar Disorder in the UK Biobank <br>
- * P17.015.D - Poster Viewing Group D, Abstract available [@ESHG Info](https://apps.m-anage.com/eshg2024/en-GB/pag/presentation/670346) <br>
+ * P17.015.D - Poster Viewing Group D, Abstract available [@ESHG Info](https://apps.m-anage.com/eshg2024/en-GB/pag/presentation/670346) <br> -->
   
 - ESHG 2025, European Human Genetics Conference 2025, Milan, Italy
 - CaPRI 2025, Cancer in Primary Care Research International, Manchester, UK
-<!-- - SGGD 2024, Genetics of Diabetes, University of Exeter, UK
-- ESHG 2024, European Human Genetics Conference 2024, Berlin, Germany  -->
+<!-- - SGGD 2024, Genetics of Diabetes, University of Exeter, UK -->
+<!-- - ESHG 2024, European Human Genetics Conference 2024, Berlin, Germany  -->
 <!-- - 2022 AI-DLDA Summer School, University of Udine, Italy：[YouTube Video](https://www.youtube.com/watch?v=893cXc9hGP4&t=4s) -->
 ### Contact
 - Email: 106316153@gms.tcu.edu.tw
