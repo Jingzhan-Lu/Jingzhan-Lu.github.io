@@ -1,5 +1,5 @@
 ## Jingzhan Lu
-#### Currently seeking postdoctoral opportunities in cancer genomics, epidemiology, biostatistics and AI for health <br>
+### Currently seeking postdoctoral opportunities in cancer genomics, epidemiology, biostatistics, and AI for health. Please contact: jl1426@exeter.ac.uk <br>
 A PhD student with a passion for Statistical Genetics of Healthcare 🧬[Personal Profile @Exeter Uni](https://experts.exeter.ac.uk/42356-jingzhan-lu/about) <br> <br>
 <img width="200" alt="profile" src="myself.jpg">
 
