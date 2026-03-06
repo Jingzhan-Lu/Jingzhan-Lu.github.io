@@ -1,5 +1,5 @@
 ## Jingzhan Lu
-### Currently seeking postdoctoral opportunities in statistical genetics, epidemiology or AI for health. Please contact: jl1426@exeter.ac.uk <br>
+### Currently seeking postdoctoral opportunities in statistical genetics, epidemiology or AI for health. Please contact: <a href="mailto:jl1426@exeter.ac.uk">jl1426@exeter.ac.uk</a> <br>
 A PhD student with a passion for Statistical Genetics of Healthcare 🧬[Personal Profile @Exeter Uni](https://experts.exeter.ac.uk/42356-jingzhan-lu/about) <br> <br>
 <img width="200" alt="profile" src="myself.jpg">
 
