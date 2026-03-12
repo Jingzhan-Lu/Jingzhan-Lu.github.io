@@ -4,7 +4,7 @@ A PhD student with a passion for Statistical Genetics of Healthcare 🧬[Persona
 <img width="200" alt="profile" src="myself.jpg">
 
 ## Publications
- &nbsp; [1]. Impact of control selection strategies on GWAS results: a study of prostate cancer in the UK Biobank  [Briefings in Bioinformatics](https://www.medrxiv.org/content/10.1101/2025.10.08.25337574v1) <br> <br>
+ &nbsp; [1]. Impact of control selection strategies on GWAS results: a study of prostate cancer in the UK Biobank  [Briefings in Bioinformatics](https://dx.doi.org/10.1093/bib/bbag102) <br> <br>
  &nbsp; [2]. Determinants of repeat miscarriage among adult women of reproductive age in Guanggu, Wuhan, China [BMC Women's Health](https://link.springer.com/article/10.1186/s12905-026-04355-9) <br> <br>
 &nbsp; [3]. Prostate cancer risk-stratification using proteomic estimation of KLK3 improves accuracy in screening applications: a population-based cohort study in the UK Biobank [Preprint available](https://www.medrxiv.org/content/10.1101/2025.08.21.25334151v1) <br> <br>
 &nbsp; [4]. Uncovering the symptom relationship among sleep quality, anxiety, and depression in Chinese patients with breast cancer: multidimensional data validation using PSQI versus actigraphy [Journal of Cancer Survivorship](https://link.springer.com/article/10.1007/s11764-024-01649-5)
