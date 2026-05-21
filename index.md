@@ -4,7 +4,7 @@ A PhD student with a passion for Statistical Genetics of Healthcare 🧬[Persona
 <img width="200" alt="profile" src="myself.jpg">
 
 ## Publications
- &nbsp; [1]. Improved prostate cancer prediction by combining Prostate-Specific Antigen (PSA) test results with Genetic Risk Scores (GRS/PRS)  [Preprint available](https://github.com/Jingzhan-Lu/Jingzhan-Lu.github.io/blob/c42df5ca964935d74c0f2dee3c3814e43fa07538/MEDRXIV-2026-353195v1-Green.pdf) <br> <br>
+ &nbsp; [1]. Improved prostate cancer prediction by combining Prostate-Specific Antigen (PSA) test results with Genetic Risk Scores (GRS/PRS)  [Preprint available (https://www.medrxiv.org/content/10.64898/2026.05.14.26353195v1.full-text) <br> <br>
  &nbsp; [2]. Impact of control selection strategies on GWAS results: a study of prostate cancer in the UK Biobank  [Briefings in Bioinformatics](https://dx.doi.org/10.1093/bib/bbag102) <br> <br>
  &nbsp; [3]. Determinants of repeat miscarriage among adult women of reproductive age in Guanggu, Wuhan, China [BMC Women's Health](https://link.springer.com/article/10.1186/s12905-026-04355-9) <br> <br>
 &nbsp; [4]. Prostate cancer risk-stratification using proteomic estimation of KLK3 improves accuracy in screening applications: a population-based cohort study in the UK Biobank [Preprint available](https://www.medrxiv.org/content/10.1101/2025.08.21.25334151v1) <br> <br>
