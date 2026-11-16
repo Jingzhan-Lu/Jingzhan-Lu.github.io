@@ -2,7 +2,7 @@
 ### I recently joined the research group of Prof. Martin Tobin (FMedSci) as a Postdoctoral in Statistical Genetics, Epidemiology and Respiratory diseases at University of Leicester. Interested in exploring any potential collaboration or exchange, please 📧 Contact: <a href="mailto:106316153@gms.tcu.edu.tw">106316153@gms.tcu.edu.tw</a> <br>
 PhD Graduate supervised by Dr. Harry Green, Prof. Michael Weedon and Prof. Anna Murray with a passion for Statistical Genetics of Healthcare 🧬[Personal Profile @Exeter Uni](https://experts.exeter.ac.uk/42356-jingzhan-lu/about) <br> <br>
 
-I have been privileged to work at three world-leading genetic laboratories: <br>
+I have been privileged to work at three world-leading genetic epidemiology laboratories: <br>
 1.  [UCL Human Genetics Lab](https://www.uclhumgen.com/) in Psychiatry Disorders (PGC Consortium); leading by Prof. Andrew McQuillin and Prof. Karoline Kuchenbaecker <br>
 2.  [Exeter Genetics of Complex Traits Group](https://github.com/ExeterGenetics) (GAINT, ReproGen, MAGIC and EGG Consortium); leading by Prof. Michael Weedon, Prof. Anna Murray, Prof. Inês Barroso and Prof. Rachel Freathy <br> 
 3.  [Leicester Genetic Epidemiology Group](https://le.ac.uk/genetic-epidemiology) (UK Biobank BiLEVE and SpiroMeta Consortium); leading by Prof. Martin Tobin (FMedSci)
